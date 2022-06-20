@@ -44,4 +44,4 @@
   <img align="center" alt="Meira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-<img src="https://github.com/V1N1C1USS/arthurmeira/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
+<img src="https://github.com/V1N1C1USS/V1N1C1USS/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
