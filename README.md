@@ -17,9 +17,9 @@
 <div align="center" dir="auto">
   
 <div align="center">
-  <a href="https://github.com/V1N1C1USS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1N1C1USS&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1N1C1USS&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/viniciuscolombo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuscolombo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscolombo&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -30,4 +30,4 @@
   <img align="center" alt="Meira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-<img src="https://github.com/V1N1C1USS/V1N1C1USS/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
+<img src="https://github.com/viniciuscolombo/viniciuscolombo/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
