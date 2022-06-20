@@ -1,17 +1,3 @@
-<h2> Olá, me chamo Vini 👋 </h2>
-
-### Sou estudante!
-
-<hr>
-
-<h4> 
-  
-- 🧠 Trabalho na agrosys <br>
-- 💡 Passivo <br>
-- 📈 Visionário 
-  
-</h4>
-
 <div align="center">
 
 <h2> Entre em contato comigo: </h2>
